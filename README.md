@@ -1,4 +1,6 @@
 # CharlockHolmes
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Fcharlock_holmes.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Fcharlock_holmes?ref=badge_shield)
+
 
 Character encoding detecting library for Ruby using [ICU](http://site.icu-project.org/)
 
@@ -109,3 +111,7 @@ Configure Bundler to always use the correct arguments when installing:
 Using Gem to install directly without Bundler:
 
     gem install charlock_holmes -- --with-icu-dir=/usr/local/opt/icu4c
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Fcharlock_holmes.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Fcharlock_holmes?ref=badge_large)
